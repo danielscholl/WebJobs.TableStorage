@@ -1,0 +1,15 @@
+bin
+obj
+packages
+Properties
+.vs
+edge
+
+*.user
+*.suo
+*.cscfg
+
+/packages
+/TestResults
+
+NuGet.exe
